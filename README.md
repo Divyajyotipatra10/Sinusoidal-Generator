@@ -5,4 +5,5 @@ Example output has been attached below:-
 
 It is basically a try to achieve QPSK. This code will be further used in achieving QPSK on a 8 bit datastream.
 In this waveform posted above we have checked the QPSK for 4 cases.
-![image](https://github.com/Divyajyotipatra10/Sinusoidal-Generator/assets/96006198/b4b6dc91-6de7-4ce3-9c44-073b62989ac4)
+![image](https://github.com/Divyajyotipatra10/Sinusoidal-Generator/assets/96006198/f3d23375-cae7-49b7-b8da-3aa385cf4dca)
+
